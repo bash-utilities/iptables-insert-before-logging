@@ -47,7 +47,7 @@
 
 
 ```Bash
-_module_https_url='https://github.com/bash-utilities/iptables-insert-before-logging.git'
+_module_https_url='https://github.com/network-utilities/iptables-insert-before-logging.git'
 _module_relative_path='modules/iptables-insert-before-logging'
 ```
 
@@ -135,7 +135,7 @@ git add README.md
 
 
 git commit -F- <<'EOF'
-:heavy_plus_sign: Adds bash-utilities/iptables-insert-before-logging#1 submodule
+:heavy_plus_sign: Adds network-utilities/iptables-insert-before-logging#1 submodule
 
 
 **Edits**
@@ -221,50 +221,50 @@ on
 
 
 [badge__travis_ci__iptables_insert_before_logging]:
-  https://img.shields.io/travis/bash-utilities/iptables-insert-before-logging/example.svg
+  https://img.shields.io/travis/network-utilities/iptables-insert-before-logging/example.svg
 
 [travis_ci__iptables_insert_before_logging]:
-  https://travis-ci.com/bash-utilities/iptables-insert-before-logging
+  https://travis-ci.com/network-utilities/iptables-insert-before-logging
   "&#x1F6E0; Automated tests and build logs"
 
 
 [badge__commits__iptables_insert_before_logging__master]:
-  https://img.shields.io/github/last-commit/bash-utilities/iptables-insert-before-logging/master.svg
+  https://img.shields.io/github/last-commit/network-utilities/iptables-insert-before-logging/master.svg
 
 [commits__iptables_insert_before_logging__master]:
-  https://github.com/bash-utilities/iptables-insert-before-logging/commits/master
+  https://github.com/network-utilities/iptables-insert-before-logging/commits/master
   "&#x1F4DD; History of changes on this branch"
 
 
 [iptables_insert_before_logging__community]:
-  https://github.com/bash-utilities/iptables-insert-before-logging/community
+  https://github.com/network-utilities/iptables-insert-before-logging/community
   "&#x1F331; Dedicated to functioning code"
 
 
 [iptables_insert_before_logging__example_branch]:
-  https://github.com/bash-utilities/iptables-insert-before-logging/tree/example
+  https://github.com/network-utilities/iptables-insert-before-logging/tree/example
   "If it lurches, it lives"
 
 
 [badge__issues__iptables_insert_before_logging]:
-  https://img.shields.io/github/issues/bash-utilities/iptables-insert-before-logging.svg
+  https://img.shields.io/github/issues/network-utilities/iptables-insert-before-logging.svg
 
 [issues__iptables_insert_before_logging]:
-  https://github.com/bash-utilities/iptables-insert-before-logging/issues
+  https://github.com/network-utilities/iptables-insert-before-logging/issues
   "&#x2622; Search for and _bump_ existing issues or open new issues for project maintainer to address."
 
 
 [badge__pull_requests__iptables_insert_before_logging]:
-  https://img.shields.io/github/issues-pr/bash-utilities/iptables-insert-before-logging.svg
+  https://img.shields.io/github/issues-pr/network-utilities/iptables-insert-before-logging.svg
 
 [pull_requests__iptables_insert_before_logging]:
-  https://github.com/bash-utilities/iptables-insert-before-logging/pulls
+  https://github.com/network-utilities/iptables-insert-before-logging/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
 
 
 [badge__master__iptables_insert_before_logging__source_code]:
-  https://img.shields.io/github/size/bash-utilities/iptables-insert-before-logging/iptables-insert-before-logging.sh.svg?label=iptables-insert-before-logging.sh
+  https://img.shields.io/github/size/network-utilities/iptables-insert-before-logging/iptables-insert-before-logging.sh.svg?label=iptables-insert-before-logging.sh
 
 [iptables_insert_before_logging__master__source_code]:
-  https://github.com/bash-utilities/iptables-insert-before-logging/blob/master/iptables-insert-before-logging.sh
+  https://github.com/network-utilities/iptables-insert-before-logging/blob/master/iptables-insert-before-logging.sh
   "&#x2328; Project source code!"
